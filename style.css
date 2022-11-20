@@ -1,0 +1,55 @@
+body
+{
+background-color: rgb(87, 85, 85);
+text-align:center;
+}
+h1
+{
+color:white;
+}
+.line
+{
+height:6px;
+background-color:black;
+width:70px;
+margin:8px auto;
+}
+#library
+{
+width:100%;
+padding:100px;
+}
+#library img
+{
+width:60%;
+height:800px;
+}
+p
+{
+color:white;
+}
+.my_nav_bar
+{
+position:sticky;
+top:0;
+z-index:99999;
+}
+.achievements_head
+{
+font-size:20px;
+padding: 6px 22px;
+border-radius:10px;
+margin-bottom:15px;
+}
+.glyphicon
+{
+color:orange
+}
+h3
+{
+color:white;
+}
+.new 
+{
+margin-bottom:20px;
+}
